@@ -4,6 +4,8 @@
 
 |擴充功能名稱|功能| 
 |---|---|
+|[Live Server Preview](https://marketplace.visualstudio.com/items?itemName=negokaz.live-server-preview)|讓vscode可以即時預覽網頁|
+|[Sublime Text Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)|Sublime Text的鍵盤對應，讓習慣使用Sublime Text也可以在vs code得心應手|
 |[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)|提供路徑的自動提示與補全|
 |[IntelliSense for CSS class names](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)|提供css檔中的類別名稱自動提示|
 |[Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)|提供常用的圖示字型的標籤提示與自動補全|
