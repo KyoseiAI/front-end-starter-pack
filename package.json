@@ -4,6 +4,7 @@
     "description": "前端初學者最需要安裝的基礎擴充功能集",
     "version": "0.0.1",
     "publisher": "Kyoseiai",
+    "repository": "https://github.com/KyoseiAI/front-end-starter-pack",
     "engines": {
         "vscode": "^1.17.0"
     },

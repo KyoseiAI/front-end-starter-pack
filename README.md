@@ -17,8 +17,7 @@
 ```javascript
 {
     "editor.formatOnSave": true,
-    "editor.fontFamily": "Menlo, Monaco, 
-    'Courier New', monospace",
+    "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
     "emmet.triggerExpansionOnTab": true,
     "emmet.showExpandedAbbreviation": "always",
     "emmet.showAbbreviationSuggestions": true
