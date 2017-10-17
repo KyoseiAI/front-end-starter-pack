@@ -3,7 +3,7 @@
     "displayName": "Front-End Starter Pack",
     "description": "前端初學者最需要安裝的基礎擴充功能集",
     "icon": "icon.png",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "publisher": "Kyoseiai",
     "repository": "https://github.com/KyoseiAI/front-end-starter-pack",
     "engines": {
