@@ -7,6 +7,7 @@
 |[Live Server Preview](https://marketplace.visualstudio.com/items?itemName=negokaz.live-server-preview)|讓vscode中的分頁即時預覽網頁|
 |[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)|讓vscode打開瀏覽器即時預覽網頁|
 |[Sublime Text Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)|Sublime Text的鍵盤快速鍵對應|
+|[Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)|讓vscode加入對HTML, CSS, JS, JSON的支援|
 |[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)|提供路徑的自動提示與補全|
 |[IntelliSense for CSS class names](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)|提供css檔中的類別名稱自動提示|
 |[Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)|提供常用的圖示字型的標籤提示與自動補全|
