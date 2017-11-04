@@ -3,7 +3,7 @@
     "displayName": "Front-End Starter Pack",
     "description": "前端初學者最需要安裝的基礎擴充功能集",
     "icon": "icon.png",
-    "version": "0.1.5",
+    "version": "0.1.6",
     "publisher": "Kyoseiai",
     "repository": "https://github.com/KyoseiAI/front-end-starter-pack",
     "engines": {
@@ -25,7 +25,7 @@
         "thekalinga.bootstrap4-vscode",
         "wcwhitehead.bootstrap-3-snippets",
         "wayou.vscode-todo-highlight",
-        "raymondcamden.CSSLint",
+        "shinnn.stylelint",
         "ashhitch.vs-code-css-comments"
     ]
 }

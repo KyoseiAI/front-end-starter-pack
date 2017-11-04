@@ -24,7 +24,7 @@
 |擴充功能名稱|功能| 
 |---|---|
 |[jshint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint)|整合 JSHint 到VS Code中 讓編輯器可以針對程式碼做提示|
-|[CSSLint](https://marketplace.visualstudio.com/items?itemName=raymondcamden.CSSLint)|整合 CSSlint 到VS Code中 讓編輯器可以針對CSS程式碼做提示|
+|[stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)|整合 CSS/SCSS/LESS的linter 到VS Code中 讓編輯器可以針對CSS程式碼做提示|
 
 ## 註解功能加強
 |擴充功能名稱|功能| 
@@ -49,6 +49,8 @@
     "emmet.triggerExpansionOnTab": true,
     "emmet.showExpandedAbbreviation": "always",
     "emmet.showAbbreviationSuggestions": true,
-    "css.validate": false
+    "stylelint.enable": true,
+    "css.validate": false,
+    "scss.validate": false
 }
 ```
