@@ -3,7 +3,7 @@
     "displayName": "Front-End Starter Pack",
     "description": "前端初學者最需要安裝的基礎擴充功能集",
     "icon": "icon.png",
-    "version": "0.1.7",
+    "version": "1.0.0",
     "publisher": "Kyoseiai",
     "repository": "https://github.com/KyoseiAI/front-end-starter-pack",
     "engines": {
@@ -13,19 +13,17 @@
         "Extension Packs"
     ],
     "extensionDependencies": [
+        "MS-CEINTL.vscode-language-pack-zh-hant",
         "ms-vscode.sublime-keybindings",
         "HookyQR.beautify",
         "christian-kohler.path-intellisense",
         "Zignd.html-css-class-completion",
-        "idleberg.icon-fonts",
-        "wcwhitehead.bootstrap-3-snippets",
         "thekalinga.bootstrap4-vscode",
         "donjayamanne.jquerysnippets",
         "dbaeumer.jshint",
         "shinnn.stylelint",
         "wayou.vscode-todo-highlight",
         "ashhitch.vs-code-css-comments",
-        "ritwickdey.LiveServer",
-        "negokaz.live-server-preview"
+        "ritwickdey.LiveServer"
     ]
 }
